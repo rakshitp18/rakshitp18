@@ -91,25 +91,25 @@
 
 ## GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Milindverma24&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=rakshitp18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=Milindverma24&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=rakshitp18&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Milindverma24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rakshitp18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## GitHub Contribution Snake
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Milindverma24/Milindverma24/gh-pages/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/rakshitp18/rakshitp18/gh-pages/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
 
 ## Profile Views
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Milindverma24&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=rakshitp18&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 
 ---
 
